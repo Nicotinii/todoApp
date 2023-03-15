@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "todo-list-2cc00": {
+      "hosting": {
+        "todoApp": [
+          "todo-list-2cc00"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "todo-list-2cc00"
+  }
+}
